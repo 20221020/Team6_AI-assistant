@@ -17,3 +17,9 @@
 
 - The application's ability to classify the user's condition and offer appropriate services contributes to enhancing driver safety and reducing the occurrence of accidents associated with various risky driving behaviors. 
 
+## System Desing (Project Overview)
+- As illustrated in the diagram, the service delivery process involves capturing images, diagnosing the driver's state, confirming the state, and providing suitable services. To ensure the efficiency of the artificial intelligence (AI) model and the minimal data requirements for the application's operation, a channel-wise stacking technique is employed, where five photos are stacked as input data. Convolutional Neural Network (CNN)-based models are utilized for the AI models, and after training with TensorFlow, they are converted to TensorFlow Lite for mobile usage.
+- By monitoring the driver, their condition can be classified based on their driving behavior. To ensure accurate service provision and confirm the driver's intention, a voice-based reconfirmation process was implemented. During this phase, the application retrieves the name provided during the initial setup and uses it to address the driver. For instance, it may say, "Mr. OOO, are you currently feeling drowsy?" This approach effectively captures the driver's attention and alerts them to any abnormal behavior.
+- Lastly, once the driver's condition is confirmed, appropriate services can be provided. This comprehensive process ensures accurate assessment and personalized assistance, enhancing the effectiveness of the application in promoting driver safety 
+
+## Data
