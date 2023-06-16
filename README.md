@@ -62,6 +62,7 @@ You can run the app by installing the apk file in the app-release.zip file on yo
 ![Application demonstriation](/img/fig3.png)
 
 - demo video
+[![Video Label](http://img.youtube.com/vi/'GsxRhvZkXbk'/0.jpg)](https://youtu.be/'GsxRhvZkXbk')
 https://www.youtube.com/watch?v=GsxRhvZkXbk
 
 ## Boarder Impacts
