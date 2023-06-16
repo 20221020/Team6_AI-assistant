@@ -2,7 +2,7 @@
 
 ## How to Use?
 
-You can run the app by installing the appk file in the app release.zip file on your Android smartphone.
+You can run the app by installing the apk file in the app-release.zip file on your Android smartphone.
 
 ##	Problem Definition
 
