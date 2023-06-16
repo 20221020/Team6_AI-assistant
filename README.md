@@ -46,7 +46,7 @@
 - Model training result: The training accuracy achieved was 93.23%, indicating a high level of performance on the training data. The validation accuracy reached 60.59%, indicating the model's ability to generalize to unseen data. Further optimization and fine-tuning may be required to improve the validation accuracy and enhance overall model performance.
 
 
-## Fontend (Mobile application)
+## Mobile application
 
 - The development of the application was carried out using the Flutter open-source framework, focusing on Android platform compatibility. The user interface (UI) design encompasses three distinct types. The initial UI involves user recognition through the input of a username (login) for identification purposes. The second UI serves as the main interface, overseeing the entire process and presenting the output and post-processing results. The third UI integrates the camera functionality.
 - The overall process consists of several steps: camera photography, state diagnosis, state confirmation, and post-processing. In the camera photography step, a series of five photos is continuously captured at 1-second intervals, generating input for state diagnosis. The state diagnosis step utilizes a deep learning model converted to the TensorFlow Lite (tflite) format, allowing for efficient inference. The model assigns a corresponding label to the diagnosed state.
