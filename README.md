@@ -8,8 +8,12 @@
 
 |Monitoring Status|Services|
 |:--:|:--:|
-
-
+|Normal|Continuous monitoring|
+|Drunk driving|Warning sounds and police reports|
+|Driver assault|Warning sounds and police reports|
+|Drowsy driving|An acting song|
+|Mobile phone manipulation|A warning sound|
+|Looking for things|A warning sound|
 
 - The application's ability to classify the user's condition and offer appropriate services contributes to enhancing driver safety and reducing the occurrence of accidents associated with various risky driving behaviors. 
 
